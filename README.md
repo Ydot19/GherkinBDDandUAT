@@ -74,7 +74,7 @@ For more: see the first 3 minutes of [BDD and ATDD/UAT](https://www.youtube.com/
   - Use `Scenario Outline` when you have different inputs for the same scenario
     - See the [example](https://www.tutorialspoint.com/cucumber/cucumber_scenario_outline.htm)
 
-- Use a `rule` in a feature when you are trying
+- Use a `rule` in a feature when you are trying to
 
 > *represent one business rule that should be implemented. It provides additional information for a feature. A Rule is used to group together several scenarios that belong to this business rule. A Rule should contain one or more scenarios that illustrate the particular rule.* source: https://cucumber.io/docs/gherkin/reference/
   - Use rules to group related scenarios together that don't follow a common `Scenario Outline` format
