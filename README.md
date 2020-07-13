@@ -35,7 +35,7 @@ Before getting started there are design consideration you must implement to util
 
 ![Hexagonal Architecture](https://alistair.cockburn.us/wp-content/uploads/2018/02/Hexagonal-architecture-with-adapters.gif)
 
-This is where most of the business application behavior is tested. *Component Wise* functional should occur throughout the development lifecycle.
+This is where most of the business application behavior is tested. *Component Wise* functional tests should occur throughout the development lifecycle.
 
 For more: see the first 3 minutes of [BDD and ATDD/UAT](https://www.youtube.com/watch?v=lC0jzd8sGIA)
 
